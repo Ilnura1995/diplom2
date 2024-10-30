@@ -1,0 +1,17 @@
+/Users/user/Desktop/diplom2/diplom_done2/src/test/java/praktikum/handlers/clientshttp/UserHTTPClient.java
+/Users/user/Desktop/diplom2/diplom_done2/src/test/java/praktikum/entities/request/Order.java
+/Users/user/Desktop/diplom2/diplom_done2/src/test/java/praktikum/handlers/clientsapi/OrderApiClient.java
+/Users/user/Desktop/diplom2/diplom_done2/src/test/java/praktikum/tests/TestsCreateUser.java
+/Users/user/Desktop/diplom2/diplom_done2/src/test/java/praktikum/entities/request/Ingredient.java
+/Users/user/Desktop/diplom2/diplom_done2/src/test/java/praktikum/Urls.java
+/Users/user/Desktop/diplom2/diplom_done2/src/test/java/praktikum/tests/TestsCreateOrder.java
+/Users/user/Desktop/diplom2/diplom_done2/src/test/java/praktikum/handlers/clientshttp/OrderHTTPClient.java
+/Users/user/Desktop/diplom2/diplom_done2/src/test/java/praktikum/tests/TestsChangeUserData.java
+/Users/user/Desktop/diplom2/diplom_done2/src/test/java/praktikum/tests/TestsOrderList.java
+/Users/user/Desktop/diplom2/diplom_done2/src/test/java/praktikum/entities/response/ResponseIngredients.java
+/Users/user/Desktop/diplom2/diplom_done2/src/test/java/praktikum/entities/response/ResponseUser.java
+/Users/user/Desktop/diplom2/diplom_done2/src/test/java/praktikum/entities/request/User.java
+/Users/user/Desktop/diplom2/diplom_done2/src/test/java/praktikum/tests/TestsLoginUser.java
+/Users/user/Desktop/diplom2/diplom_done2/src/test/java/praktikum/handlers/clientsapi/ResponseChecks.java
+/Users/user/Desktop/diplom2/diplom_done2/src/test/java/praktikum/handlers/clientshttp/BaseHTTPClient.java
+/Users/user/Desktop/diplom2/diplom_done2/src/test/java/praktikum/handlers/clientsapi/UserApiClient.java
