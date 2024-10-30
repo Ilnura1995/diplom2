@@ -1,0 +1,17 @@
+praktikum/handlers/clientshttp/OrderHTTPClient.class
+praktikum/tests/TestsOrderList.class
+praktikum/handlers/clientsapi/UserApiClient.class
+praktikum/entities/response/ResponseUser.class
+praktikum/tests/TestsCreateUser.class
+praktikum/tests/TestsCreateOrder.class
+praktikum/handlers/clientsapi/ResponseChecks.class
+praktikum/handlers/clientshttp/BaseHTTPClient.class
+praktikum/entities/request/Order.class
+praktikum/tests/TestsLoginUser.class
+praktikum/entities/request/Ingredient.class
+praktikum/Urls.class
+praktikum/tests/TestsChangeUserData.class
+praktikum/handlers/clientshttp/UserHTTPClient.class
+praktikum/handlers/clientsapi/OrderApiClient.class
+praktikum/entities/request/User.class
+praktikum/entities/response/ResponseIngredients.class
